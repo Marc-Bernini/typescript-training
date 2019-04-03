@@ -67,3 +67,5 @@ Your task is to learn TypeScript and make tests pass. Eventually, tests should l
           √can be used
           √is useful
           √works like a charm
+         
+[![Build Status](https://travis-ci.com/Marc-Bernini/typescript-training.svg?branch=exercises-step)](https://travis-ci.com/Marc-Bernini/typescript-training)
