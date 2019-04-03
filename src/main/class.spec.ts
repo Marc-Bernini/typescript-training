@@ -1,5 +1,3 @@
-import { BADNAME } from "dns";
-
 describe('class', () => {
 
   it('has a constructor for initialization', () => {
@@ -168,7 +166,7 @@ describe('class', () => {
         for (let i=0; i < this.listOfBand.length; i ++) {
           result += this.listOfBand[i];
 
-          if (i < this.listOfBand.length - 1) {
+          if (i < this.listOfBand.length- 1) {
             result += ', ';
           };
         };
